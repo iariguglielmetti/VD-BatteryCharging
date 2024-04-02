@@ -33,7 +33,7 @@
   }
   .column-wrapper {
     position: relative;
-    width: 160px;
+    width: 200px;
     height: 200px;
   }
   .column-battery {
